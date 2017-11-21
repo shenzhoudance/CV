@@ -30,11 +30,20 @@
 
 ## 上架 APP
 
+### iOS
+
 * 「[单语](https://itunes.apple.com/cn/app/单语-日语生词本-日语单词-日语学习/id1086636706)」：一个日语单词本应用，可以让你轻松地添加单词或者导入教材中的词库，或是自己建立词库、管理生词，成为你独一无二的生词本。
     * 在 2017 年 6 月得到「最美应用」推荐：[单语—想要背好日语单词，不能错过这款 APP](http://zuimeia.com/app/5088)
 * 「[Keeping!](https://itunes.apple.com/cn/app/keeping-任务管理利器-打卡习惯养成/id1197272196) 」：一个小巧的日程管理应用，能够添加并管理每日任务，并追踪任务打卡进度。
+  *  [GitHub](https://github.com/songkuixi/Keeping)
 * 「[NJULogin](https://itunes.apple.com/cn/app/nju-login/id1164049093)」：一个帮助南京大学学生更快捷、方便地登录校园网的应用。
+  *  [GitHub](https://github.com/songkuixi/NJULogin)
 * 「[顺路行](https://itunes.apple.com/cn/app/顺路行/id1290596835)」：大三时期完成的外包项目，是一个让大学生们在校园内顺路为他人完成一些服务、赚取一些利益的平台。
+
+### macOS
+
+* 「[TouchBrickout](https://itunes.apple.com/cn/app/touchbrickout/id1314804894)」：一款在 Mac 上用键盘或者 Touch Bar 进行打砖块的游戏。
+  *  [GitHub](https://github.com/songkuixi/TouchBreakout)
 
 ## 其它项目
 
