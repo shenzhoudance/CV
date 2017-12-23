@@ -36,8 +36,8 @@
     * 在 2017 年 6 月得到「最美应用」推荐：[单语—想要背好日语单词，不能错过这款 APP](http://zuimeia.com/app/5088)
 * 「[Keeping!](https://itunes.apple.com/cn/app/keeping-任务管理利器-打卡习惯养成/id1197272196) 」：一个小巧的日程管理应用，能够添加并管理每日任务，并追踪任务打卡进度。
   *  [GitHub](https://github.com/songkuixi/Keeping)
-* 「[NJULogin](https://itunes.apple.com/cn/app/nju-login/id1164049093)」：一个帮助南京大学学生更快捷、方便地登录校园网的应用。
-  *  [GitHub](https://github.com/songkuixi/NJULogin)
+* 「[南大老司机](https://itunes.apple.com/cn/app/nju-login/id1164049093)」：一个帮助南京大学学生更快捷地登录校园网、查询成绩、浏览常用网址的应用。
+  *  [GitHub](https://github.com/songkuixi/NJUHelper)
 * 「[顺路行](https://itunes.apple.com/cn/app/顺路行/id1290596835)」：大三时期完成的外包项目，是一个让大学生们在校园内顺路为他人完成一些服务、赚取一些利益的平台。
 
 ### macOS
